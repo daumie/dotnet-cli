@@ -6,7 +6,7 @@ namespace dotnet_cli
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Hello, World!"));
         }
     }
 }

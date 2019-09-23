@@ -6,4 +6,8 @@
     <RootNamespace>dotnet_cli</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Figgle" Version="0.3.0" />
+  </ItemGroup>
+
 </Project>
