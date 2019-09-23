@@ -1,0 +1,28 @@
+# Build directories
+*\obj
+*\bin
+*\Debug
+*\Release
+
+# Temporary build files
+*.dep
+*.aps
+*.vbw
+*.suo
+*.obj
+*.ncb
+*.plg
+*.bsc
+*.ilk 
+*.exp
+*.sbr 
+*.opt 
+*.pdb 
+*.idb 
+*.pch 
+*.res 
+*.user
+
+# Binary files
+*.exe
+*.dll
