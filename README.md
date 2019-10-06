@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/daumie/dotnet-cli.svg?style=svg)](https://circleci.com/gh/daumie/dotnet-cli)
 
-Use a simple Hello-World application to demonstrate building of dotnet console apps on CircleCI
+Use a simple Hello-World application to demonstrate building of dotnet console apps on CircleCI.
 
 ## MIT License
 
